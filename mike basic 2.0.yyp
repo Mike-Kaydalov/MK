@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "11709a8d-da51-4e14-ac3f-2d6a3d3d9c23",
+            "Value": {
+                "id": "534238f3-417a-458c-b1b3-7cc5b41874da",
+                "resourcePath": "sprites\\sEnemyR\\sEnemyR.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "152f055d-d630-4285-b955-422bf6b3efe4",
             "Value": {
                 "id": "275abc7f-41b9-4667-a061-fcc8a028e98a",
@@ -44,6 +52,14 @@
                 "id": "908714c9-ea54-4a79-b6d8-db154b2b7578",
                 "resourcePath": "views\\18bd2729-c31e-4264-b5ac-667eef9bc874.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "228d4beb-7553-4d35-8f4d-9cd08da5c951",
+            "Value": {
+                "id": "7e6c5bfe-f4f5-4d99-a54a-f5b4e48d170d",
+                "resourcePath": "sprites\\sEnemy\\sEnemy.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -151,6 +167,14 @@
             }
         },
         {
+            "Key": "a9b4a708-744d-4ed2-86ef-e75fdc9b69c0",
+            "Value": {
+                "id": "2039174d-7278-4b5b-bc3b-ebbdfd2ac321",
+                "resourcePath": "sprites\\sEnemyD\\sEnemyD.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b16873fb-3edc-41e3-a14c-c36f21c4ec72",
             "Value": {
                 "id": "eec5f52c-1572-47d8-bf9a-47fe0080dd19",
@@ -172,6 +196,14 @@
                 "id": "6f64e975-4424-43f1-b933-b5b5e38cdc20",
                 "resourcePath": "objects\\oPlayer\\oPlayer.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c9a7ede3-c584-4b07-98d8-ce5e53457107",
+            "Value": {
+                "id": "fa37dd9d-a257-41e6-baab-b68032e63ede",
+                "resourcePath": "sprites\\sEnemyA\\sEnemyA.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -219,6 +251,14 @@
             "Value": {
                 "id": "fc00d275-6e0d-4898-82d3-7c45c1c2a5ee",
                 "resourcePath": "objects\\oWall\\oWall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f29f7ac8-70d6-4566-9116-3cbcceb4b315",
+            "Value": {
+                "id": "3a0c5c22-7adc-4f54-aec1-a2b8daca6478",
+                "resourcePath": "objects\\oEnemy\\oEnemy.yy",
                 "resourceType": "GMObject"
             }
         },
