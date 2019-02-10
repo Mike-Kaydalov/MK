@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "c0b06fae-c5bf-4821-bc41-9f55b9257581",
+            "Value": {
+                "id": "003380a3-ad68-4d5e-883f-e2e9bf243a91",
+                "resourcePath": "objects\\oDead\\oDead.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c5c12ca5-1d52-4722-bc2f-a96333fecae2",
             "Value": {
                 "id": "6f64e975-4424-43f1-b933-b5b5e38cdc20",
